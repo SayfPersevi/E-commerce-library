@@ -235,7 +235,7 @@ FEATURES
 */
 
 #features {
-    padding-top: 8vh;
+    padding-top: 12vh;
   background-color: rgba(115, 66, 214, 0.1);
 }
 
@@ -284,4 +284,14 @@ cursor: not-allowed;
     text-decoration: line-through;
     padding-right: 6px;
     color: #bfbfbf;
+}
+
+/*
+
+LATEST-BOOKS
+
+*/
+
+.books__latest {
+    flex-wrap: wrap;
 }
